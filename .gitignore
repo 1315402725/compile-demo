@@ -1,0 +1,9 @@
+*.iml
+logs
+target
+.idea
+.DS_Store
+deploy-*/output
+deploy/output
+__nam*
+.deploy
